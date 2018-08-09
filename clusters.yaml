@@ -1,0 +1,5 @@
+- Account: 788157744186-test-amazon
+  AutoDeploy: false
+  Name: amazon-test
+  Provider: amazon
+  Src: amazon-test.yaml
